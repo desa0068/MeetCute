@@ -1,0 +1,30 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ca.edumedia.mang0055.meetcute"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ca.edumedia.mang0055.meetcute"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ca.edumedia.mang0055.meetcute"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ca.edumedia.mang0055.meetcute"
+        },
+        "cordova-sqlite-storage": {
+            "PACKAGE_NAME": "ca.edumedia.mang0055.meetcute"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "ca.edumedia.mang0055.meetcute"
+        }
+    },
+    "dependent_plugins": {}
+}
